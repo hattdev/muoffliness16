@@ -27,4 +27,5 @@
 25        583            //Jin
 26        604            //Jin
 27        891            //Wizard Gillard
+28        244            //Lumen the Barmaid
 end

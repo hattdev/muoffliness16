@@ -1,0 +1,2 @@
+00:18:08 [ServerList] GameServer offline (GameServer) (20)
+00:18:30 [ServerList] GameServer online (GameServer) (20)

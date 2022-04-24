@@ -199,6 +199,7 @@ function SkillDamageProc(lpObj,lpTarget,lpSkill,skill,Count,Combo,InitDamage)
 		end
 	elseif (skill == SKILL_SWORD_BLOW) then
 		FinalDamage = InitDamage * (GetObjectStatByType(lpObj,POINT_ENERGY) / 10 + 200) / 100
+		LogAdd(LOG_RED,string.format('InitDamage: %d - FinalDamage: %d', InitDamage, FinalDamage))
 	elseif (skill == SKILL_ICE_BLOOD) then
 		if (Class == CLASS_DL or Class == CLASS_MG or Class == CLASS_RF) then
 			FinalDamage = InitDamage * 2
@@ -226,7 +227,7 @@ function SkillDamageProc(lpObj,lpTarget,lpSkill,skill,Count,Combo,InitDamage)
 		FinalDamage = InitDamage * (GetObjectStatByType(lpObj,POINT_DEXTERITY) / 10 + 50) / 100
 	end
 
-	--LogAdd(LOG_RED,string.format('InitDamage: %d - FinalDamage: %d', InitDamage, FinalDamage))
+	-- LogAdd(LOG_RED,string.format('InitDamage: %d - FinalDamage: %d', InitDamage, FinalDamage))
 
 	return FinalDamage
 end

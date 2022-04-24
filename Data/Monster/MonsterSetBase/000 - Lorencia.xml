@@ -8,7 +8,7 @@
 		<Config Class="253" Range="0" PositionX="127" PositionY="86" Direction="2" Element="0" /> <!-- "Potion Girl Amy" -->
 		<Config Class="251" Range="0" PositionX="116" PositionY="141" Direction="3" Element="0" /> <!-- "Hanzo the Blacksmith" -->
 		<Config Class="255" Range="0" PositionX="123" PositionY="135" Direction="1" Element="0" /> <!-- "Lumen the Barmaid" -->
-		<Config Class="254" Range="0" PositionX="118" PositionY="113" Direction="3" Element="0" /> <!-- "Pasi the Mage" -->
+		
 		<Config Class="249" Range="10" PositionX="131" PositionY="88" Direction="1" Element="0" /> <!-- "Guard" -->
 		<Config Class="249" Range="20" PositionX="173" PositionY="125" Direction="3" Element="0" /> <!-- "Guard" -->
 		<Config Class="249" Range="20" PositionX="94" PositionY="130" Direction="7" Element="0" /> <!-- "Guard" -->
@@ -32,6 +32,7 @@
 		<Config Class="406" Range="0" PositionX="142" PositionY="135" Direction="2" Element="0" /> <!-- "Trainer" -->
 		
 		<Config Class="244" Range="0" PositionX="130" PositionY="128" Direction="3" Element="0" /><!-- 006 - Lumen the Barmaid.txt -->
+		<Config Class="254" Range="0" PositionX="130" PositionY="126" Direction="3" Element="0" /> <!-- "Pasi the Mage" -->
 		
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->

@@ -1,3 +1,29 @@
 12:01:21 [SocketManager] Server started at port [44405]
 12:01:21 [ServerList] ServerList loaded successfully
 12:01:22 [Connection] connect() failed with error: 10061
+22:55:43 [SocketManager] Server started at port [44405]
+22:55:43 [ServerList] ServerList loaded successfully
+22:55:44 [Connection] connect() failed with error: 10061
+22:55:55 [Connection] connect() failed with error: 10061
+22:56:05 [Connection] connect() failed with error: 10061
+22:56:15 [Connection] connect() failed with error: 10061
+22:56:25 [Connection] connect() failed with error: 10061
+22:56:35 [Connection] connect() failed with error: 10061
+22:56:45 [Connection] connect() failed with error: 10061
+22:56:55 [Connection] connect() failed with error: 10061
+22:57:05 [Connection] connect() failed with error: 10061
+22:57:15 [Connection] connect() failed with error: 10061
+22:57:25 [Connection] connect() failed with error: 10061
+22:57:35 [Connection] connect() failed with error: 10061
+22:57:45 [Connection] connect() failed with error: 10061
+22:57:56 [Connection] connect() failed with error: 10061
+22:58:00 [ServerList] GameServer online (GameServer) (20)
+22:58:05 [Connection] connect() failed with error: 10061
+22:58:15 [Connection] connect() failed with error: 10061
+22:58:25 [Connection] connect() failed with error: 10061
+22:58:36 [Connection] connect() failed with error: 10061
+22:58:46 [Connection] connect() failed with error: 10061
+23:01:22 [SocketManager] Server started at port [44405]
+23:01:22 [ServerList] ServerList loaded successfully
+23:01:22 [ServerList] JoinServer online
+23:01:22 [ServerList] GameServer online (GameServer) (20)

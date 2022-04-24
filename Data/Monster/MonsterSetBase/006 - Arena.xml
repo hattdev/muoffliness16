@@ -12,6 +12,7 @@
 	<Config Class="575" Range="5" BeginPosX="49" BeginPosY="88" EndPosX="49" EndPosY="88" Direction="-1" Quantity="20"  Element="0" /> <!-- "Condra" -->
 	
 	<Config Class="787" Range="5" BeginPosX="46" BeginPosY="71" EndPosX="46" EndPosY="71" Direction="-1" Quantity="20" Element="1" /> <!-- "Wooden Beast" -->
+	<Config Class="275" Range="5" BeginPosX="46" BeginPosY="71" EndPosX="46" EndPosY="71" Direction="-1" Quantity="1" Element="1" /> <!-- "Wooden Beast" -->
 	
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
