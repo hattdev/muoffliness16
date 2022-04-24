@@ -1,0 +1,47 @@
+//Section   Type   Level   Dur   Skill   Luck   Option  
+14 3 0 255 0 0 0 0	  //Large Healing Potion
+14 6 0 255 0 0 0 0	  //Large Mana Potion
+14  37 0   0 0 0 0 0
+14 8 0 255 0 0 0 0	  //Antidote
+13 0 0 0 0 0 0 0	  //Guardian Angel 
+13  1 0   0 0 0 0 0	  //
+13  2 0   0 0 0 0 0	  //
+13  80 7   0 0 0 0 0	  //
+14  23 0   0 0 0 0 0	  //
+14  24 0   0 0 0 0 0	  //
+14  25 0   0 0 0 0 0	  //
+14  26 0   0 0 0 0 0	  //
+14  65 0   0 0 0 0 0	  //
+14  66 0   0 0 0 0 0	  //
+14  67 0   0 0 0 0 0	  //
+14  68 0   0 0 0 0 0	  //
+14  45 0   0 0 0 0 0
+16  0 0   0 0 0 0 0
+12  401 0   10 0 0 0 0
+
+
+
+
+12	130	0	0	0	0	0	0		//Cánh Thiên Sứ
+12	131	0	0	0	0	0	0		//Cánh Ngũ Sắc
+12	132	0	0	0	0	0	0		//Cánh Cuồng Phong
+12	133	0	0	0	0	0	0		//Cánh Lôi Vũ
+12	134	0	0	0	0	0	0		//Cánh Phượng Hoàng
+12	135	0	0	0	0	0	0		//Áo Choàng Đế Vương
+14 22 0 0 0 0 0 0	  //cre
+12 15 0 0 0 0 0 0	  //chaos
+14 13 0 0 0 0 0 0	  //tam linh
+//14 14 0 0 0 0 0 0	  //uoc nguyen
+//14 41 0 0 0 0 0 0	  // da nguyen thuy
+14 11 8 0 0 0 0 0	 //Box of Kundun +1
+//14 11 9 0 0 0 0 0	 	//Box of Kundun +2
+//14 11 10 0 0 0 0 0	 	//Box of Kundun +3
+//14 11 11 0 0 0 0 0	 	//Box of Kundun +4
+//14 11 12 0 0 0 0 0	 	//Box of Kundun +5
+//14 247  0 0 0 0 0 0	 	// ngoc op
+//14 245  0 0 0 0 0 0	 	// ngoc sjukk
+//14 246  0 0 0 0 0 0	 	// ngoc luck
+//14 100  0 0 0 0 0 0	 	// ngoc luck
+
+
+end

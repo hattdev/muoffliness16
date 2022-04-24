@@ -1,0 +1,166 @@
+00:12:39 [ServerInfo] CashShop loaded successfully
+00:12:39 [ServerInfo] ChaosMix loaded successfully
+00:12:39 [ServerInfo] Character loaded successfully
+00:12:40 [ServerInfo] Command loaded successfully
+00:12:40 [AntiDDoS] Status: 0
+00:12:40 [Language] Load English.xml language definition
+00:12:40 [ServerInfo] Common loaded successfully
+00:12:40 [ Crywolf ] State (0) -> NONE
+00:12:40 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+00:12:40 [ServerInfo] Event loaded successfully
+00:12:40 [ServerInfo] EventItemBag loaded successfully
+00:12:40 [ServerInfo] Hack loaded successfully
+00:12:40 [ServerInfo] Item loaded successfully
+00:12:40 [ServerInfo] Monster loaded successfully
+00:12:40 [ServerInfo] Custom loaded successfully
+00:12:40 [ServerInfo] Move loaded successfully
+00:12:40 [ServerInfo] Quest loaded successfully
+00:12:40 [ServerInfo] Shop loaded successfully
+00:12:41 [ServerInfo] Skill loaded successfully
+00:12:41 [ServerInfo] Util loaded successfully
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1361 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:11 - Y:42 - Dir :2 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1795 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:61 - Y:35 - Dir :7 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1796 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:66 - Y:27 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1797 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:68 - Y:40 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1798 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:76 - Y:18 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1799 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:78 - Y:35 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1800 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:79 - Y:52 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1801 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:77 - Y:46 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1802 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:85 - Y:9 - Dir :1 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1807 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:147 - Y:62 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1812 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:177 - Y:29 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1819 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:201 - Y:61 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1824 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:25 - Y:101 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1832 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:106 - Y:72 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1838 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:148 - Y:65 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1844 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:171 - Y:97 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1846 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:180 - Y:79 - Dir :5 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1854 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:23 - Y:91 - Dir :7 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1856 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:31 - Y:88 - Dir :1 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1858 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:67 - Y:115 - Dir :7 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1860 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:76 - Y:115 - Dir :5 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1873 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:179 - Y:86 - Dir :7 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1884 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:68 - Y:112 - Dir :4 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1885 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:73 - Y:143 - Dir :1 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1890 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:123 - Y:130 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1891 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:125 - Y:147 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1897 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:204 - Y:131 - Dir :0 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1898 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:205 - Y:128 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1900 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:218 - Y:108 - Dir :4 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1905 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:15 - Y:158 - Dir :7 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1910 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:158 - Y:154 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1915 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:28 - Y:170 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1916 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:50 - Y:192 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1934 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:177 - Y:196 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1936 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:225 - Y:189 - Dir :4 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1938 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:85 - Y:201 - Dir :4 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1939 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:104 - Y:193 - Dir :7 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1943 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:175 - Y:183 - Dir :3 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1945 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:226 - Y:180 - Dir :4 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1946 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:15 - Y:167 - Dir :0 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1947 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:23 - Y:162 - Dir :7 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1953 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:119 - Y:172 - Dir :1 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1955 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:143 - Y:171 - Dir :2 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1956 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:144 - Y:167 - Dir :5 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1960 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:54 - Y:219 - Dir :6 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1963 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:97 - Y:214 - Dir :5 - TX:0 - TY:0 - Element:0
+00:12:41 [gObjSetPosMonster][GetPosition] Location Error number:1966 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:116 - Y:220 - Dir :1 - TX:0 - TY:0 - Element:0
+00:12:41 [Blood Castle] (1) Sync Start Time. [53] min remain
+00:12:41 [Blood Castle] (1) SetState EMPTY
+00:12:41 [Blood Castle] (2) Sync Start Time. [53] min remain
+00:12:41 [Blood Castle] (2) SetState EMPTY
+00:12:41 [Blood Castle] (3) Sync Start Time. [53] min remain
+00:12:41 [Blood Castle] (3) SetState EMPTY
+00:12:41 [Blood Castle] (4) Sync Start Time. [53] min remain
+00:12:41 [Blood Castle] (4) SetState EMPTY
+00:12:41 [Blood Castle] (5) Sync Start Time. [53] min remain
+00:12:41 [Blood Castle] (5) SetState EMPTY
+00:12:41 [Blood Castle] (6) Sync Start Time. [53] min remain
+00:12:41 [Blood Castle] (6) SetState EMPTY
+00:12:41 [Blood Castle] (7) Sync Start Time. [53] min remain
+00:12:41 [Blood Castle] (7) SetState EMPTY
+00:12:41 [Blood Castle] (8) Sync Start Time. [53] min remain
+00:12:41 [Blood Castle] (8) SetState EMPTY
+00:12:41 [Castle Deep] Sync Start Time. [227] min remain
+00:12:41 [Castle Deep] SetState EMPTY
+00:12:41 [Chaos Castle] (1) Sync Start Time. [47] min remain
+00:12:41 [Chaos Castle] (1) SetState EMPTY
+00:12:41 [Chaos Castle] (2) Sync Start Time. [47] min remain
+00:12:41 [Chaos Castle] (2) SetState EMPTY
+00:12:41 [Chaos Castle] (3) Sync Start Time. [47] min remain
+00:12:41 [Chaos Castle] (3) SetState EMPTY
+00:12:41 [Chaos Castle] (4) Sync Start Time. [47] min remain
+00:12:41 [Chaos Castle] (4) SetState EMPTY
+00:12:41 [Chaos Castle] (5) Sync Start Time. [47] min remain
+00:12:41 [Chaos Castle] (5) SetState EMPTY
+00:12:41 [Chaos Castle] (6) Sync Start Time. [47] min remain
+00:12:41 [Chaos Castle] (6) SetState EMPTY
+00:12:41 [Chaos Castle] (7) Sync Start Time. [47] min remain
+00:12:41 [Chaos Castle] (7) SetState EMPTY
+00:12:41 [Chaos Castle Survival] Sync Start Time. [72] min remain
+00:12:41 [Chaos Castle Survival][GDChaosCastleSurvivalRenewallRanking] [BattleType:0]
+00:12:41 [Chaos Castle Survival][GDChaosCastleSurvivalRankingInfoReq] RankingType is Invalid 
+00:12:41 [Chaos Castle Survival] SetState EMPTY
+00:12:41 [Devil Square] (1) Sync Start Time. [17] min remain
+00:12:41 [Devil Square] (1) SetState EMPTY
+00:12:41 [Devil Square] (2) Sync Start Time. [17] min remain
+00:12:41 [Devil Square] (2) SetState EMPTY
+00:12:41 [Devil Square] (3) Sync Start Time. [17] min remain
+00:12:41 [Devil Square] (3) SetState EMPTY
+00:12:41 [Devil Square] (4) Sync Start Time. [17] min remain
+00:12:41 [Devil Square] (4) SetState EMPTY
+00:12:41 [Devil Square] (5) Sync Start Time. [17] min remain
+00:12:41 [Devil Square] (5) SetState EMPTY
+00:12:41 [Devil Square] (6) Sync Start Time. [17] min remain
+00:12:41 [Devil Square] (6) SetState EMPTY
+00:12:41 [Devil Square] (7) Sync Start Time. [17] min remain
+00:12:41 [Devil Square] (7) SetState EMPTY
+00:12:41 [AcheronGuardian] Sync Start Time. [256] min remain
+00:12:41 [ RAKLION ] State(0) -> END
+00:12:41 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+00:12:41 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+00:12:41 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+00:12:41 [DSN][DSNEventInit] Event initialization
+00:12:42 [Connection] connect() failed with error: 10061
+00:12:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+00:12:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+00:12:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+00:12:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+00:12:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+00:12:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+00:12:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+00:12:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2022-04-28 AM09:30
+00:12:43 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+00:12:43 m_iAB_REMAIN_MSEC 1014
+00:12:43 [ArcaBattle] Sync Start Time. [1014] min remain (START HOUR:17, MIN:7)
+00:12:43 [Chaos Castle Survival] SetState BLANK
+00:12:43 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+00:12:43 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2021-7-1)
+00:12:43 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+00:12:43 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2021-7-8(0:0:0))
+00:12:43 [CastleSiege] CCastleSiege::Init() - START
+00:12:43 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+00:12:44 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+00:12:53 [Connection] connect() failed with error: 10061
+00:13:03 [Connection] connect() failed with error: 10061
+00:13:13 [Connection] connect() failed with error: 10061
+00:13:23 [Connection] connect() failed with error: 10061
+00:13:33 [Connection] connect() failed with error: 10061
+00:13:43 [Connection] connect() failed with error: 10061
+00:13:53 [Connection] connect() failed with error: 10061
+00:14:03 [Connection] connect() failed with error: 10061
+00:14:13 [Connection] connect() failed with error: 10061
+00:14:23 [Connection] connect() failed with error: 10061
+00:14:33 [Connection] connect() failed with error: 10061
+00:14:43 [Connection] connect() failed with error: 10061
+00:14:53 [Connection] connect() failed with error: 10061
+00:15:03 [Connection] connect() failed with error: 10061
+00:15:13 [Connection] connect() failed with error: 10061
+00:15:23 [Connection] connect() failed with error: 10061
+00:15:33 [Connection] connect() failed with error: 10061
+00:15:43 [Connection] connect() failed with error: 10061
+00:15:53 [Connection] connect() failed with error: 10061
+00:16:03 [Connection] connect() failed with error: 10061
+00:16:13 [Connection] connect() failed with error: 10061
+00:16:23 [Connection] connect() failed with error: 10061
+00:16:33 [Connection] connect() failed with error: 10061
