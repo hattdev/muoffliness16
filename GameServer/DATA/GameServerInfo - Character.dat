@@ -44,18 +44,18 @@ GCDamageRatePvP = 100
 KMDamageRatePvP = 100
 LMDamageRatePvP = 100
 DWDamageRatePvM = 100
-DKDamageRatePvM = 100
-FEDamageRatePvM = 100
-MGDamageRatePvM = 100
-DLDamageRatePvM = 100
-SUDamageRatePvM = 100
-RFDamageRatePvM = 100
-GLDamageRatePvM = 100
-RWDamageRatePvM = 100
-SLDamageRatePvM = 100
-GCDamageRatePvM = 100
-KMDamageRatePvM = 100
-LMDamageRatePvM = 100
+DKDamageRatePvM = 200
+FEDamageRatePvM = 200
+MGDamageRatePvM = 200
+DLDamageRatePvM = 200
+SUDamageRatePvM = 200
+RFDamageRatePvM = 200
+GLDamageRatePvM = 200
+RWDamageRatePvM = 200
+SLDamageRatePvM = 200
+GCDamageRatePvM = 200
+KMDamageRatePvM = 200
+LMDamageRatePvM = 200
 
 
 ;==================================================

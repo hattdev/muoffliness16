@@ -1,2 +1,10 @@
 00:18:08 [ServerList] GameServer offline (GameServer) (20)
 00:18:30 [ServerList] GameServer online (GameServer) (20)
+00:21:36 [ServerList] GameServer offline (GameServer) (20)
+00:22:21 [ServerList] GameServer online (GameServer) (20)
+00:28:47 [ServerList] GameServer offline (GameServer) (20)
+00:28:53 [ServerList] GameServer online (GameServer) (20)
+00:50:17 [ServerList] GameServer offline (GameServer) (20)
+00:50:41 [ServerList] GameServer online (GameServer) (20)
+00:57:38 [ServerList] GameServer offline (GameServer) (20)
+00:57:40 [Connection] connect() failed with error: 10061
