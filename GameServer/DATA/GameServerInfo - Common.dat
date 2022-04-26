@@ -88,7 +88,7 @@ UserAnnouncementSwitch = 1
 ;==================================================
 MonsterLifeRate = 100
 MonsterHealthBarSwitch = 1
-MonsterReturnTime = 2
+MonsterReturnTime = 3
 
 ;==================================================
 ; PK Settings
@@ -153,13 +153,13 @@ ElfBufferDefenseConstB = 3
 ; Experience Settings
 ;==================================================
 AddExperienceRate_AL0 = 100
-AddExperienceRate_AL1 = 110
-AddExperienceRate_AL2 = 120
-AddExperienceRate_AL3 = 130
-AddMasterExperienceRate_AL0 = 50
-AddMasterExperienceRate_AL1 = 60
-AddMasterExperienceRate_AL2 = 70
-AddMasterExperienceRate_AL3 = 80
+AddExperienceRate_AL1 = 100
+AddExperienceRate_AL2 = 100
+AddExperienceRate_AL3 = 100
+AddMasterExperienceRate_AL0 = 100
+AddMasterExperienceRate_AL1 = 100
+AddMasterExperienceRate_AL2 = 100
+AddMasterExperienceRate_AL3 = 100
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
 MinMasterExperienceMonsterLevel_AL2 = 95
@@ -180,7 +180,7 @@ AddQuestExperienceRate_AL3 = 100
 ;==================================================
 ; Item Drop Settings
 ;==================================================
-ItemDropTime = 10
+ItemDropTime = 5
 ItemDropRate_AL0 = 100
 ItemDropRate_AL1 = 100
 ItemDropRate_AL2 = 100
@@ -497,18 +497,18 @@ TransformationRing6 = 41
 ;==================================================
 ; Jewel Settings
 ;==================================================
-SoulSuccessRate_AL0 = 50
-SoulSuccessRate_AL1 = 50
-SoulSuccessRate_AL2 = 50
-SoulSuccessRate_AL3 = 50
-LifeSuccessRate_AL0 = 85
-LifeSuccessRate_AL1 = 85
-LifeSuccessRate_AL2 = 85
-LifeSuccessRate_AL3 = 85
-HarmonySuccessRate_AL0 = 100
-HarmonySuccessRate_AL1 = 100
-HarmonySuccessRate_AL2 = 100
-HarmonySuccessRate_AL3 = 100
+SoulSuccessRate_AL0 = 100
+SoulSuccessRate_AL1 = 100
+SoulSuccessRate_AL2 = 100
+SoulSuccessRate_AL3 = 100
+LifeSuccessRate_AL0 = 70
+LifeSuccessRate_AL1 = 70
+LifeSuccessRate_AL2 = 70
+LifeSuccessRate_AL3 = 70
+HarmonySuccessRate_AL0 = 70
+HarmonySuccessRate_AL1 = 70
+HarmonySuccessRate_AL2 = 70
+HarmonySuccessRate_AL3 = 70
 SmeltStoneSuccessRate1_AL0 = 50
 SmeltStoneSuccessRate1_AL1 = 50
 SmeltStoneSuccessRate1_AL2 = 50
@@ -545,4 +545,4 @@ FruitSubPointSuccessRate_AL3 = -1
 ;==================================================
 ; Ext Inventory Settings
 ;==================================================
-MaxExtendedInventory = 2
+MaxExtendedInventory = 3

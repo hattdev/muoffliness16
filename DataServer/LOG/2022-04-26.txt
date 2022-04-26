@@ -1,0 +1,35 @@
+09:59:09 [SocketManager] Server started at port [55960]
+09:59:19 [MainProc][2][Expire Mission Info][Restore] 2022-02-03 PM07:30
+09:59:25 [ServerManager][0] AddServer (127.0.0.1)
+09:59:25 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+09:59:45 [ServerManager][1] AddServer (127.0.0.1)
+09:59:46 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+09:59:47 [DSF][RenewDSFPartyRank]2
+09:59:47 [DSF][RenewDSFPartyRank]3
+09:59:47 [DSF][RenewDSFPartyRank]4
+09:59:47 error-L3 : [ArcaBattle] DBSelectArcaBattleProc #2 100 C:\Users\marco\Documents\GitHub\MuOnline-MultiVersion\SourceCode\eMU\DataServer\DataServer\ArcaBattle.cpp 609
+09:59:58 [ServerManager][2] AddServer (127.0.0.1)
+09:59:59 [ServerManager][2] ServerInfo (MuDevsCS) (55919) (19) (0)
+10:00:00 [DSF][RenewDSFPartyRank]2
+10:00:00 [DSF][RenewDSFPartyRank]3
+10:00:00 [DSF][RenewDSFPartyRank]4
+10:00:15 [ServerManager][2] DelServer (127.0.0.1)
+10:05:58 [ServerManager][1] DelServer (127.0.0.1)
+10:06:02 [ServerManager][0] DelServer (127.0.0.1)
+10:08:29 [SocketManager] Server started at port [55960]
+10:08:38 [MainProc][2][Expire Mission Info][Restore] 2022-02-03 PM07:30
+10:08:40 [ServerManager][0] AddServer (127.0.0.1)
+10:08:40 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+10:08:54 [ServerManager][1] AddServer (127.0.0.1)
+10:08:54 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+10:08:55 [DSF][RenewDSFPartyRank]2
+10:08:55 [DSF][RenewDSFPartyRank]3
+10:08:55 [DSF][RenewDSFPartyRank]4
+10:09:03 [ServerManager][2] AddServer (127.0.0.1)
+10:09:03 [ServerManager][2] ServerInfo (MuDevsCS) (55919) (19) (0)
+10:09:07 [DSF][RenewDSFPartyRank]2
+10:09:07 [DSF][RenewDSFPartyRank]3
+10:09:07 [DSF][RenewDSFPartyRank]4
+10:12:16 EXEC WZ_BattleCore_AccountUserInfoSelect 'duyanhvn', 'OneHit', 1, 0
+10:12:16 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'BattleCore.dbo.BattleCoreUser'.
+10:12:16 Error-L3 [ChaosCastleFinalDBSet][WZ_BattleCore_AccountUserInfoSelect] [duyanhvn][OneHit] ServerCode:1, ServerType:0 
