@@ -1,7 +1,7 @@
 //ServerCode   PasiveServer	ServerName         ServerAddress      ServerPort       ServerType
-20             0 		"GameServer"       "192.168.1.9"    55901            "SHOW"
-21             0 		"GameServer1"      "192.168.1.9"    55902            "SHOW"
-22             0 		"GameServer2"      "192.168.1.9"    55903            "SHOW"
-120            0	    "BattleCore"       "192.168.1.9"    55904            "SHOW"
-19             0		"GameServerCS"     "192.168.1.9"    55919            "HIDE"
+20             0 		"GameServer"       "25.8.238.31"    55901            "SHOW"
+21             0 		"GameServer1"      "25.8.238.31"    55902            "SHOW"
+22             0 		"GameServer2"      "25.8.238.31"    55903            "SHOW"
+120            0	    "BattleCore"       "25.8.238.31"    55904            "SHOW"
+19             0		"GameServerCS"     "25.8.238.31"    55919            "HIDE"
 end
