@@ -28,14 +28,21 @@
 12	133	0	0	0	0	0	0		//Cánh Lôi Vũ
 12	134	0	0	0	0	0	0		//Cánh Phượng Hoàng
 12	135	0	0	0	0	0	0		//Áo Choàng Đế Vương
-14 22 0 0 0 0 0 0	  //cre
-12 15 0 0 0 0 0 0	  //chaos
-14 13 0 0 0 0 0 0	  //tam linh
+
+
+12	0	0	0	0	0	0	0		//Wings of Elf
+12	1	0	0	0	0	0	0		//Wings of Heaven
+12	2	0	0	0	0	0	0		//Wings of Satan
+
+
+//14 22 0 0 0 0 0 0	  //cre
+//12 15 0 0 0 0 0 0	  //chaos
+//14 13 0 0 0 0 0 0	  //tam linh
 //14 14 0 0 0 0 0 0	  //uoc nguyen
 //14 41 0 0 0 0 0 0	  // da nguyen thuy
 14 11 8 0 0 0 0 0	 //Box of Kundun +1
-//14 11 9 0 0 0 0 0	 	//Box of Kundun +2
-//14 11 10 0 0 0 0 0	 	//Box of Kundun +3
+14 11 9 0 0 0 0 0	 	//Box of Kundun +2
+14 11 10 0 0 0 0 0	 	//Box of Kundun +3
 //14 11 11 0 0 0 0 0	 	//Box of Kundun +4
 //14 11 12 0 0 0 0 0	 	//Box of Kundun +5
 //14 247  0 0 0 0 0 0	 	// ngoc op
