@@ -119,7 +119,7 @@ CommandMoneyEnable_AL3 = 1
 ;==================================================
 ; Change Command Settings
 ;==================================================
-CommandChangeSwitch = 1
+CommandChangeSwitch = 0
 CommandChangeEnable_AL0 = 1
 CommandChangeEnable_AL1 = 1
 CommandChangeEnable_AL2 = 1
@@ -149,7 +149,7 @@ CommandWareNumber_AL3 = 1
 ;==================================================
 ; Reset Command Settings
 ;==================================================
-CommandResetSwitch = 1
+CommandResetSwitch = 0
 CommandResetType = 1
 CommandResetEnable_AL0 = 1
 CommandResetEnable_AL1 = 1
