@@ -146,10 +146,10 @@ PetMixRate_AL3 = 100
 ;==================================================
 ; Piece of Horn Mix Settings
 ;==================================================
-PieceOfHornMixRate_AL0 = 70
-PieceOfHornMixRate_AL1 = 70
-PieceOfHornMixRate_AL2 = 70
-PieceOfHornMixRate_AL3 = 70
+PieceOfHornMixRate_AL0 = 100
+PieceOfHornMixRate_AL1 = 100
+PieceOfHornMixRate_AL2 = 100
+PieceOfHornMixRate_AL3 = 100
 
 ;==================================================
 ; Broken Horn Mix Settings
