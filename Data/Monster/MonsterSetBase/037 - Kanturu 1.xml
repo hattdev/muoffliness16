@@ -5,9 +5,15 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-		<Config Class="351" Range="10" BeginPosX="40" BeginPosY="233" EndPosX="40" EndPosY="233" Direction="-1" Quantity="20" Element="0" /> <!-- "Splinter Wolf" -->
-		<Config Class="355" Range="10" BeginPosX="181" BeginPosY="17" EndPosX="181" EndPosY="17" Direction="-1" Quantity="20" Element="0" /> <!-- "Kentauros" -->
-		<Config Class="555" Range="10" BeginPosX="72" BeginPosY="165" EndPosX="72" EndPosY="165" Direction="-1" Quantity="20" Element="0" /> <!-- "Gigantis Warrior" -->
+		<Config Class="351" Range="10" BeginPosX="40" BeginPosY="233" EndPosX="40" EndPosY="233" Direction="-1" Quantity="12" Element="0" /> <!-- "Splinter Wolf" -->
+		<Config Class="355" Range="10" BeginPosX="181" BeginPosY="17" EndPosX="181" EndPosY="17" Direction="-1" Quantity="3" Element="0" /> <!-- "Kentauros" -->
+		<Config Class="350" Range="10" BeginPosX="181" BeginPosY="17" EndPosX="181" EndPosY="17" Direction="-1" Quantity="3" Element="0" /> <!-- "Kentauros" -->
+		<Config Class="357" Range="10" BeginPosX="181" BeginPosY="17" EndPosX="181" EndPosY="17" Direction="-1" Quantity="3" Element="0" /> <!-- "Kentauros" -->
+		<Config Class="356" Range="10" BeginPosX="181" BeginPosY="17" EndPosX="181" EndPosY="17" Direction="-1" Quantity="3" Element="0" /> <!-- "Kentauros" -->
+		<Config Class="553" Range="10" BeginPosX="72" BeginPosY="165" EndPosX="72" EndPosY="165" Direction="-1" Quantity="3" Element="0" /> <!-- "Gigantis Warrior" -->
+		<Config Class="554" Range="10" BeginPosX="72" BeginPosY="165" EndPosX="72" EndPosY="165" Direction="-1" Quantity="3" Element="0" /> <!-- "Gigantis Warrior" -->
+		<Config Class="555" Range="10" BeginPosX="72" BeginPosY="165" EndPosX="72" EndPosY="165" Direction="-1" Quantity="3" Element="0" /> <!-- "Gigantis Warrior" -->
+		<Config Class="556" Range="10" BeginPosX="72" BeginPosY="165" EndPosX="72" EndPosY="165" Direction="-1" Quantity="3" Element="0" /> <!-- "Gigantis Warrior" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

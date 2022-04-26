@@ -5,9 +5,9 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-		<Config Class="730" Range="10" BeginPosX="237" BeginPosY="198" EndPosX="237" EndPosY="198" Direction="-1" Quantity="20" Element="3" /> <!-- "Ferea Knight" -->
-		<Config Class="730" Range="10" BeginPosX="222" BeginPosY="218" EndPosX="222" EndPosY="218" Direction="-1" Quantity="20" Element="3" /> <!-- "Ferea Knight" -->
-		<Config Class="730" Range="10" BeginPosX="235" BeginPosY="216" EndPosX="235" EndPosY="216" Direction="-1" Quantity="20" Element="3" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="10" BeginPosX="237" BeginPosY="198" EndPosX="237" EndPosY="198" Direction="-1" Quantity="12" Element="3" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="10" BeginPosX="222" BeginPosY="218" EndPosX="222" EndPosY="218" Direction="-1" Quantity="12" Element="3" /> <!-- "Ferea Knight" -->
+		<Config Class="730" Range="10" BeginPosX="235" BeginPosY="216" EndPosX="235" EndPosY="216" Direction="-1" Quantity="12" Element="3" /> <!-- "Ferea Knight" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
