@@ -3,9 +3,6 @@
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<NPC>
 		<Config Class="911" Range="0" PositionX="201" PositionY="78" Direction="2" Element="0" /> <!-- "Trainer" -->
-	
-	
-	
 		<Config Class="605" Range="3" PositionX="202" PositionY="75" Direction="-1" Element="0" /> <!-- "Mining Area (Small)			" -->
 		<Config Class="605" Range="3" PositionX="206" PositionY="80" Direction="-1" Element="0" /> <!-- "Mining Area (Small)		" -->
 		<Config Class="605" Range="3" PositionX="211" PositionY="80" Direction="-1" Element="0" /> <!-- "Mining Area (Small)		" -->
