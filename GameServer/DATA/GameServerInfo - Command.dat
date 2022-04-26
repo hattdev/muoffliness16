@@ -149,8 +149,8 @@ CommandWareNumber_AL3 = 1
 ;==================================================
 ; Reset Command Settings
 ;==================================================
-CommandResetSwitch = 1
-CommandResetType = 1
+CommandResetSwitch = 0
+CommandResetType = 0
 CommandResetEnable_AL0 = 1
 CommandResetEnable_AL1 = 1
 CommandResetEnable_AL2 = 1
@@ -163,10 +163,10 @@ CommandResetCheckItem_AL0 = 0
 CommandResetCheckItem_AL1 = 0
 CommandResetCheckItem_AL2 = 0
 CommandResetCheckItem_AL3 = 0
-CommandResetMove_AL0 = 1
-CommandResetMove_AL1 = 1
-CommandResetMove_AL2 = 1
-CommandResetMove_AL3 = 1
+CommandResetMove_AL0 = 0
+CommandResetMove_AL1 = 0
+CommandResetMove_AL2 = 0
+CommandResetMove_AL3 = 0
 CommandResetQuest_AL0 = 0
 CommandResetQuest_AL1 = 0
 CommandResetQuest_AL2 = 0

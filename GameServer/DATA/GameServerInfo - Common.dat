@@ -95,12 +95,12 @@ MonsterReturnTime = 2
 ;==================================================
 NonPK = 0
 PKLimitFree = 0
-PKDownTime1 = 3600
-PKDownTime2 = 3600
+PKDownTime1 = 0
+PKDownTime2 = 0
 PKOpenStores = 0
-PkPartyOpenStores = 0
+PkPartyOpenStores = 1
 PKMinPkOpenStores = 4
-PKMoveLorencia = 0
+PKMoveLorencia = 1
 PKPartyBlock = 0
 
 ;==================================================
@@ -152,14 +152,14 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 9999
-AddExperienceRate_AL1 = 9999
-AddExperienceRate_AL2 = 9999
-AddExperienceRate_AL3 = 9999
-AddMasterExperienceRate_AL0 = 9999
-AddMasterExperienceRate_AL1 = 9999
-AddMasterExperienceRate_AL2 = 9999
-AddMasterExperienceRate_AL3 = 9999
+AddExperienceRate_AL0 = 100
+AddExperienceRate_AL1 = 110
+AddExperienceRate_AL2 = 120
+AddExperienceRate_AL3 = 130
+AddMasterExperienceRate_AL0 = 50
+AddMasterExperienceRate_AL1 = 60
+AddMasterExperienceRate_AL2 = 70
+AddMasterExperienceRate_AL3 = 80
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
 MinMasterExperienceMonsterLevel_AL2 = 95
@@ -216,11 +216,11 @@ UseRestoreItemFeature = 1
 ;==================================================
 ; Trade Item Block Settings
 ;==================================================
-TradeItemBlock = 0
-TradeItemBlockExc = 0
-TradeItemBlockSet = 0
-TradeItemBlockHarmony = 0
-TradeItemBlockSell = 0
+TradeItemBlock = 1
+TradeItemBlockExc = 1
+TradeItemBlockSet = 1
+TradeItemBlockHarmony = 1
+TradeItemBlockSell = 1
 
 ;==================================================
 ; Level Up Settings
@@ -232,17 +232,17 @@ MaxStatPoint_AL0 = 65000
 MaxStatPoint_AL1 = 65000
 MaxStatPoint_AL2 = 65000
 MaxStatPoint_AL3 = 65000
-DWLevelUpPoint = 10
-DKLevelUpPoint = 10
-FELevelUpPoint = 10
-MGLevelUpPoint = 10
-DLLevelUpPoint = 10
-SULevelUpPoint = 10
-RFLevelUpPoint = 10
-GLLevelUpPoint = 10
-RWLevelUpPoint = 10
-SLLevelUpPoint = 10
-GCLevelUpPoint = 10
+DWLevelUpPoint = 5
+DKLevelUpPoint = 5
+FELevelUpPoint = 5
+MGLevelUpPoint = 7
+DLLevelUpPoint = 7
+SULevelUpPoint = 5
+RFLevelUpPoint = 7
+GLLevelUpPoint = 7
+RWLevelUpPoint = 5
+SLLevelUpPoint = 5
+GCLevelUpPoint = 5
 PlusStatPoint = 1
 
 ;==================================================
@@ -325,14 +325,14 @@ ShieldGaugeElementalRate = 90
 ; Master Skill Tree Settings
 ;==================================================
 MasterSkillTree = 1
-MasterSkillTreePoint = 10
+MasterSkillTreePoint = 1
 MasterSkillTreeMaxLevel = 400
 
 ;==================================================
 ; Enhance Skill Tree Settings
 ;==================================================
 EnhanceSkillTree = 1
-EnhanceSkillTreePoint = 10
+EnhanceSkillTreePoint = 1
 EnhanceSkillTreeMaxLevel = 500
 
 ;==================================================
@@ -501,14 +501,14 @@ SoulSuccessRate_AL0 = 50
 SoulSuccessRate_AL1 = 50
 SoulSuccessRate_AL2 = 50
 SoulSuccessRate_AL3 = 50
-LifeSuccessRate_AL0 = 50
-LifeSuccessRate_AL1 = 50
-LifeSuccessRate_AL2 = 50
-LifeSuccessRate_AL3 = 50
-HarmonySuccessRate_AL0 = 50
-HarmonySuccessRate_AL1 = 50
-HarmonySuccessRate_AL2 = 50
-HarmonySuccessRate_AL3 = 50
+LifeSuccessRate_AL0 = 85
+LifeSuccessRate_AL1 = 85
+LifeSuccessRate_AL2 = 85
+LifeSuccessRate_AL3 = 85
+HarmonySuccessRate_AL0 = 100
+HarmonySuccessRate_AL1 = 100
+HarmonySuccessRate_AL2 = 100
+HarmonySuccessRate_AL3 = 100
 SmeltStoneSuccessRate1_AL0 = 50
 SmeltStoneSuccessRate1_AL1 = 50
 SmeltStoneSuccessRate1_AL2 = 50
