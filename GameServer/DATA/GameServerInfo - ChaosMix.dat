@@ -43,29 +43,29 @@ DevilSquareMixRate7_AL3 = 70
 ; Plus Item Mix Settings
 ;==================================================
 PlusItemLevelMixRate1_AL0 = 100
-PlusItemLevelMixRate1_AL1 = 60
-PlusItemLevelMixRate1_AL2 = 60
-PlusItemLevelMixRate1_AL3 = 60
+PlusItemLevelMixRate1_AL1 = 100
+PlusItemLevelMixRate1_AL2 = 100
+PlusItemLevelMixRate1_AL3 = 100
 PlusItemLevelMixRate2_AL0 = 100
-PlusItemLevelMixRate2_AL1 = 60
-PlusItemLevelMixRate2_AL2 = 60
-PlusItemLevelMixRate2_AL3 = 60
+PlusItemLevelMixRate2_AL1 = 100
+PlusItemLevelMixRate2_AL2 = 100
+PlusItemLevelMixRate2_AL3 = 100
 PlusItemLevelMixRate3_AL0 = 100
-PlusItemLevelMixRate3_AL1 = 50
-PlusItemLevelMixRate3_AL2 = 50
-PlusItemLevelMixRate3_AL3 = 50
+PlusItemLevelMixRate3_AL1 = 100
+PlusItemLevelMixRate3_AL2 = 100
+PlusItemLevelMixRate3_AL3 = 100
 PlusItemLevelMixRate4_AL0 = 100
-PlusItemLevelMixRate4_AL1 = 50
-PlusItemLevelMixRate4_AL2 = 50
-PlusItemLevelMixRate4_AL3 = 50
+PlusItemLevelMixRate4_AL1 = 100
+PlusItemLevelMixRate4_AL2 = 100
+PlusItemLevelMixRate4_AL3 = 100
 PlusItemLevelMixRate5_AL0 = 100
-PlusItemLevelMixRate5_AL1 = 40
-PlusItemLevelMixRate5_AL2 = 40
-PlusItemLevelMixRate5_AL3 = 40
+PlusItemLevelMixRate5_AL1 = 100
+PlusItemLevelMixRate5_AL2 = 100
+PlusItemLevelMixRate5_AL3 = 100
 PlusItemLevelMixRate6_AL0 = 100
-PlusItemLevelMixRate6_AL1 = 40
-PlusItemLevelMixRate6_AL2 = 40
-PlusItemLevelMixRate6_AL3 = 40
+PlusItemLevelMixRate6_AL1 = 100
+PlusItemLevelMixRate6_AL2 = 100
+PlusItemLevelMixRate6_AL3 = 100
 
 ;==================================================
 ; Dinorant Mix Settings
@@ -86,10 +86,10 @@ FruitMixRate_AL3 = 90
 ;==================================================
 ; Wing2 Mix Settings
 ;==================================================
-Wing2MixRate_AL0 = -1
-Wing2MixRate_AL1 = -1
-Wing2MixRate_AL2 = -1
-Wing2MixRate_AL3 = -1
+Wing2MixRate_AL0 = 100
+Wing2MixRate_AL1 = 100
+Wing2MixRate_AL2 = 100
+Wing2MixRate_AL3 = 100
 
 ;==================================================
 ; Blood Castle Mix Settings
@@ -154,18 +154,18 @@ PieceOfHornMixRate_AL3 = 70
 ;==================================================
 ; Broken Horn Mix Settings
 ;==================================================
-BrokenHornMixRate_AL0 = 50
-BrokenHornMixRate_AL1 = 50
-BrokenHornMixRate_AL2 = 50
-BrokenHornMixRate_AL3 = 50
+BrokenHornMixRate_AL0 = 100
+BrokenHornMixRate_AL1 = 100
+BrokenHornMixRate_AL2 = 100
+BrokenHornMixRate_AL3 = 100
 
 ;==================================================
 ; Horn of Fenrir Mix Settings
 ;==================================================
-HornOfFenrirMixRate_AL0 = 30
-HornOfFenrirMixRate_AL1 = 30
-HornOfFenrirMixRate_AL2 = 30
-HornOfFenrirMixRate_AL3 = 30
+HornOfFenrirMixRate_AL0 = 100
+HornOfFenrirMixRate_AL1 = 100
+HornOfFenrirMixRate_AL2 = 100
+HornOfFenrirMixRate_AL3 = 100
 
 ;==================================================
 ; Horn of Fenrir Upgrade Mix Settings
@@ -222,14 +222,14 @@ JewelOfHarmonyItemRestoreMixRate_AL3 = 100
 ;==================================================
 ; Item380 Mix Settings
 ;==================================================
-Item380MixRate1_AL0 = 50
-Item380MixRate1_AL1 = 50
-Item380MixRate1_AL2 = 50
-Item380MixRate1_AL3 = 50
-Item380MixRate2_AL0 = 70
-Item380MixRate2_AL1 = 70
-Item380MixRate2_AL2 = 70
-Item380MixRate2_AL3 = 70
+Item380MixRate1_AL0 = 100
+Item380MixRate1_AL1 = 100
+Item380MixRate1_AL2 = 100
+Item380MixRate1_AL3 = 100
+Item380MixRate2_AL0 = 100
+Item380MixRate2_AL1 = 100
+Item380MixRate2_AL2 = 100
+Item380MixRate2_AL3 = 100
 
 ;==================================================
 ; Illusion Temple Mix Settings
@@ -270,10 +270,10 @@ FeatherOfCondorMixRate_AL3 = -1
 ;==================================================
 ; Wing3 Mix Settings
 ;==================================================
-Wing3MixRate_AL0 = -1
-Wing3MixRate_AL1 = -1
-Wing3MixRate_AL2 = -1
-Wing3MixRate_AL3 = -1
+Wing3MixRate_AL0 = 100
+Wing3MixRate_AL1 = 100
+Wing3MixRate_AL2 = 100
+Wing3MixRate_AL3 = 100
 
 ;==================================================
 ; Wing4 Mix Settings

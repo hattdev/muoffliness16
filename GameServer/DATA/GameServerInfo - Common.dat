@@ -181,19 +181,19 @@ AddQuestExperienceRate_AL3 = 100
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 5
-ItemDropRate_AL0 = 100
-ItemDropRate_AL1 = 100
-ItemDropRate_AL2 = 100
-ItemDropRate_AL3 = 100
+ItemDropRate_AL0 = 60
+ItemDropRate_AL1 = 60
+ItemDropRate_AL2 = 60
+ItemDropRate_AL3 = 60
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 3
-MoneyAmountDropRate_AL0 = 30
-MoneyAmountDropRate_AL1 = 30
-MoneyAmountDropRate_AL2 = 30
-MoneyAmountDropRate_AL3 = 30
+MoneyAmountDropRate_AL0 = 40
+MoneyAmountDropRate_AL1 = 40
+MoneyAmountDropRate_AL2 = 40
+MoneyAmountDropRate_AL3 = 40
 
 ;==================================================
 ; Item Durability Settings
@@ -216,11 +216,11 @@ UseRestoreItemFeature = 1
 ;==================================================
 ; Trade Item Block Settings
 ;==================================================
-TradeItemBlock = 1
-TradeItemBlockExc = 1
-TradeItemBlockSet = 1
-TradeItemBlockHarmony = 1
-TradeItemBlockSell = 1
+TradeItemBlock = 0
+TradeItemBlockExc = 0
+TradeItemBlockSet = 0
+TradeItemBlockHarmony = 0
+TradeItemBlockSell = 0
 
 ;==================================================
 ; Level Up Settings
@@ -497,10 +497,10 @@ TransformationRing6 = 41
 ;==================================================
 ; Jewel Settings
 ;==================================================
-SoulSuccessRate_AL0 = 100
-SoulSuccessRate_AL1 = 100
-SoulSuccessRate_AL2 = 100
-SoulSuccessRate_AL3 = 100
+SoulSuccessRate_AL0 = 70
+SoulSuccessRate_AL1 = 70
+SoulSuccessRate_AL2 = 70
+SoulSuccessRate_AL3 = 70
 LifeSuccessRate_AL0 = 70
 LifeSuccessRate_AL1 = 70
 LifeSuccessRate_AL2 = 70
