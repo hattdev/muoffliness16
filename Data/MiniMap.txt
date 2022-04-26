@@ -21,6 +21,10 @@
 0         1       5      147    145    "Storage"
 0         1       2      114    132    "Lesnar"
 0         1       4      119    111    "Wizard Gillard"
+0         1       1      181    129    "SPOT"
+0         1       1      135    20    "SPOT"
+0         1       1      133    175    "SPOT"
+0         1       1      8    11    "SPOT"
 1         0       0      108    249    "Entrance to Lorencia"
 1         0       0      238    150    "Entrance to Dungeon2"
 1         0       0      232    128    "Entrance to Dungeon1"
@@ -269,6 +273,8 @@
 136       0       0      114    064    "Blue Gate (A)"
 136       0       0      099    159    "Blue Gate (B)"
 end
+
+
 
 1
 //Num	Index   Class     Type   X      Y      Text
