@@ -180,15 +180,10 @@ function SkillDamageProc(aIndex,bIndex,skill,count,combo,InitDamage)
 		if (oClass == CLASS_DL or oClass == CLASS_MG or oClass == CLASS_RF) then
 			FinalDamage = InitDamage * 2
 		else
-			FinalDamage = InitDamage * 2
-			-- hatt giam dame skill DK 100 ->1500
-			-- FinalDamage = InitDamage * (GetObjectStatByType(aIndex,POINT_ENERGY) / 10 + 200) / 100
+			FinalDamage = InitDamage * (GetObjectStatByType(aIndex,POINT_ENERGY) / 10 + 200) / 100
 		end
 	elseif (skill == SKILL_SWORD_BLOW) then
-		FinalDamage = InitDamage 
-		-- hatt giam dame skill DK 100 ->1000
-		-- FinalDamage = InitDamage * (GetObjectStatByType(aIndex,POINT_ENERGY) / 10 + 200) / 100
-		LogAdd(LOG_RED,string.format('InitDamage: %d - FinalDamage: %d', InitDamage, FinalDamage))
+		FinalDamage = InitDamage * (GetObjectStatByType(aIndex,POINT_ENERGY) / 10 + 200) / 100
 	elseif (skill == SKILL_ICE_BLOOD) then
 		if (oClass == CLASS_DL or oClass == CLASS_MG or oClass == CLASS_RF) then
 			FinalDamage = InitDamage * 2
@@ -429,9 +424,7 @@ function SkillGreaterLife(aIndex,bIndex,SkillIndex)	-- SKILL_GREATER_LIFE
 	value1 =  value1 + GetMasterSkillValue(aIndex,MASTER_SKILL_ADD_GREATER_LIFE_IMPROVED)
 	
 	if(value1>100--[[old GreaterLifeMaxRate]]) then
-		value1 = 30--[[old GreaterLifeMaxRate]]
-		-- hatt giam buff mau dk 100 ->30
-		-- value1 = 100--[[old GreaterLifeMaxRate]]
+		value1 = 100--[[old GreaterLifeMaxRate]]
 	end
 
 	local value2 = GetMasterSkillValue(aIndex,MASTER_SKILL_ADD_GREATER_LIFE_ENHANCED)

@@ -95,12 +95,12 @@ MonsterReturnTime = 3
 ;==================================================
 NonPK = 0
 PKLimitFree = 0
-PKDownTime1 = 3600
-PKDownTime2 = 3600
+PKDownTime1 = 0
+PKDownTime2 = 0
 PKOpenStores = 0
-PkPartyOpenStores = 0
+PkPartyOpenStores = 1
 PKMinPkOpenStores = 4
-PKMoveLorencia = 0
+PKMoveLorencia = 1
 PKPartyBlock = 0
 
 ;==================================================
@@ -216,11 +216,11 @@ UseRestoreItemFeature = 1
 ;==================================================
 ; Trade Item Block Settings
 ;==================================================
-TradeItemBlock = 0
-TradeItemBlockExc = 0
-TradeItemBlockSet = 0
-TradeItemBlockHarmony = 0
-TradeItemBlockSell = 0
+TradeItemBlock = 1
+TradeItemBlockExc = 1
+TradeItemBlockSet = 1
+TradeItemBlockHarmony = 1
+TradeItemBlockSell = 1
 
 ;==================================================
 ; Level Up Settings
@@ -232,17 +232,17 @@ MaxStatPoint_AL0 = 65000
 MaxStatPoint_AL1 = 65000
 MaxStatPoint_AL2 = 65000
 MaxStatPoint_AL3 = 65000
-DWLevelUpPoint = 10
-DKLevelUpPoint = 10
-FELevelUpPoint = 10
-MGLevelUpPoint = 10
-DLLevelUpPoint = 10
-SULevelUpPoint = 10
-RFLevelUpPoint = 10
-GLLevelUpPoint = 10
-RWLevelUpPoint = 10
-SLLevelUpPoint = 10
-GCLevelUpPoint = 10
+DWLevelUpPoint = 5
+DKLevelUpPoint = 5
+FELevelUpPoint = 5
+MGLevelUpPoint = 7
+DLLevelUpPoint = 7
+SULevelUpPoint = 5
+RFLevelUpPoint = 7
+GLLevelUpPoint = 7
+RWLevelUpPoint = 5
+SLLevelUpPoint = 5
+GCLevelUpPoint = 5
 PlusStatPoint = 1
 
 ;==================================================
@@ -333,7 +333,7 @@ MasterSkillTreeMaxLevel = 400
 ;==================================================
 EnhanceSkillTree = 1
 EnhanceSkillTreePoint = 1
-EnhanceSkillTreeMaxLevel = 400
+EnhanceSkillTreeMaxLevel = 500
 
 ;==================================================
 ; Gens System Settings
