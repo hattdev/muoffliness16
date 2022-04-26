@@ -17,7 +17,10 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-		<Config Class="58" Range="5" BeginPosX="99" BeginPosY="142" EndPosX="99" EndPosY="143" Direction="-1" Quantity="10" Element="0" /> <!-- "Spider" -->
+		<Config Class="62" Range="5" BeginPosX="144" BeginPosY="54" EndPosX="144" EndPosY="54" Direction="-1" Quantity="10" Element="0" /> <!-- "Mutant" -->
+		<Config Class="60" Range="5" BeginPosX="87" BeginPosY="73" EndPosX="87" EndPosY="73" Direction="-1" Quantity="10" Element="0" /> <!-- "Bloody wolf" -->
+		<Config Class="61" Range="5" BeginPosX="69" BeginPosY="150" EndPosX="69" EndPosY="150" Direction="-1" Quantity="10" Element="0" /> <!-- "Beam Knight" -->
+		<Config Class="61" Range="5" BeginPosX="72" BeginPosY="185" EndPosX="72" EndPosY="185" Direction="-1" Quantity="10" Element="0" /> <!-- "Beam Knight" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
