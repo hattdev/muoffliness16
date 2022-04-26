@@ -1,3 +1,0 @@
-23:46:35 [SocketManager] Server started at port [55981]
-23:46:37 [ServerManager][0] AddServer (127.0.0.1)
-23:46:37 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
