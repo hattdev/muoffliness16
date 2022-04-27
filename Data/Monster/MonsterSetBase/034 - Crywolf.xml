@@ -15,7 +15,7 @@
 		<Config Class="209" Range="0" PositionX="117" PositionY="27" Direction="2" Element="5" /> <!-- "Wolf Altar 5" -->
 		<Config Class="406" Range="0" PositionX="228" PositionY="48" Direction="1" Element="0" /> <!-- "Apostle Devin" -->
 		<Config Class="407" Range="0" PositionX="62" PositionY="239" Direction="1" Element="0" /> <!-- "Werewolf Quarel" -->
-		<Config Class="248" Range="0" PositionX="99" PositionY="40" Direction="2" Element="0" /> <!-- "Wandering Merchant Martin" -->
+		<Config Class="407" Range="0" PositionX="224" PositionY="48" Direction="1" Element="0" /> <!-- "Wandering Merchant Martin" -->
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
