@@ -270,10 +270,10 @@ FeatherOfCondorMixRate_AL3 = -1
 ;==================================================
 ; Wing3 Mix Settings
 ;==================================================
-Wing3MixRate_AL0 = -1
-Wing3MixRate_AL1 = -1
-Wing3MixRate_AL2 = -1
-Wing3MixRate_AL3 = -1
+Wing3MixRate_AL0 = 100
+Wing3MixRate_AL1 = 100
+Wing3MixRate_AL2 = 100
+Wing3MixRate_AL3 = 100
 
 ;==================================================
 ; Wing4 Mix Settings

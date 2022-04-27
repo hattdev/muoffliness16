@@ -22,8 +22,8 @@
 		<Config Class="257" Range="0" PositionX="132" PositionY="90" Direction="3" Element="0" /> <!-- "Shadow Phantom Soldier" -->
 		<Config Class="257" Range="0" PositionX="170" PositionY="129" Direction="1" Element="0" /> <!-- "Shadow Phantom Soldier" -->
 		<Config Class="547" Range="0" PositionX="139" PositionY="138" Direction="3" Element="0" /> <!-- "Market Union Member Julia" -->
-		<Config Class="543" Range="0" PositionX="144" PositionY="125" Direction="2" Element="0" /> <!-- "Gens Duprian Steward" -->
-		<Config Class="544" Range="0" PositionX="144" PositionY="129" Direction="3" Element="0" /> <!-- "Gens Vanert Steward" -->
+		<Config Class="543" Range="0" PositionX="144" PositionY="137" Direction="2" Element="0" /> <!-- "Gens Duprian Steward" -->
+		<Config Class="544" Range="0" PositionX="152" PositionY="129" Direction="3" Element="0" /> <!-- "Gens Vanert Steward" -->
 		<Config Class="584" Range="0" PositionX="114" PositionY="132" Direction="3" Element="0" /> <!-- "Sir Lesnar" -->
 		<Config Class="764" Range="0" PositionX="131" PositionY="147" Direction="3" Element="0" /> <!-- "Cent(Town)" -->
 		<Config Class="568" Range="0" PositionX="125" PositionY="125" Direction="3" Element="0" /> <!-- "Jerint the Assistant" -->

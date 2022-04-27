@@ -66,6 +66,7 @@
 12	    493	    0	    0	   0	  1	  0	0 //Ice Blast Orb
 12	    494	    0	    0	   0	  1	  0	0 //Deathfire Orb
 12	    495	    0	    0	   0	  1	  0	0 //Busting Flare Orb
+12	    498	    0	    0	   0	  1	  0	0 //Death Ice Ball
 
 //Skill SL
 12	    476	    0	    0	   0	  1	  0	0 //

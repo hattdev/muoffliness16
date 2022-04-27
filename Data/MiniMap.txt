@@ -249,6 +249,7 @@
 122       0       0      133    74     "Dark Gate"
 122       0       0      93     106    "Earth Gate"
 122       0       0      156    149    "Wind Gate"
+122       0       0      143    53    "SPOT"
 123       0       0      233    87     "Devias Entrance"
 123       0       0      209    69     "Elemental Gate (B)"
 123       0       0      214    110    "Fire Gate (A)"

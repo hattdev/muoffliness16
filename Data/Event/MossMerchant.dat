@@ -103,7 +103,7 @@ end
 19        5	  	  9         9         9         9         9         9         9         0			 *           6666         //Divine Sword of Archangel
 6451      5	  	  *         *         *         *         *         *         5         0			 *           0         //Lemuria's Orb
 6669      5	  	  *         *         *         *         1         *         *         0			 *           5000         //Pendant of Fire
-6709      5	  	  *         *         *         *         *         *         *         0			 *           2500         //Condor Feather
+6709      5	  	  *         *         *         *         *         *         *         0			 *           1500         //Condor Feather
 6932      5	  	  *         *         *         *         *         *         *         0			 *           0         //Conqueror's Badge
 7221      5	  	  *         *         *         *         *         *         *         0			 *           6666         //Talisman of Luck
 7392      5	  	  *         *         *         *         *         *         *         0			 *           6666         //Bless of Light (Greater)
@@ -144,6 +144,15 @@ end
 7184      9	  	  *         *         *         *         *         *         *         0			 *           6666         //Jewel of Life
 7190      9	  	  *         *         *         *         *         *         *         0			 *           6666         //Jewel of Creation
 51        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Sword of the Archangel
+61        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Claws of the Archangel
+77        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Short Sword of the Archangel
+1049        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Scepter of the Archangel
+1059        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Rune Mace of the Archangel
+1563        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Lance of the Archangel
+2078        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Crossbow of the Archangel
+2095        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Magical Gun of the Archangel
+2609        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Staff of the Archangel
+2610        10	  9         9         9         9         9         9         9         0			 9           1250         //Blessed Divine Stick of the Archangel
 7123      10	  *         *         *         *         *         *         *         0			 *           500         //Garuda's Feather
 6924      10	  *         *         *         *         *         *         *         0			 *           1250         //Dark Transformation Ring
 7264      10	  *         *         *         *         *         *         *         0			 *           5555         //Talisman of Chaos Assembly

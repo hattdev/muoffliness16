@@ -70,6 +70,10 @@
 		<Config Class="789" Range="4" BeginPosX="15" BeginPosY="49" EndPosX="27" EndPosY="61" Direction="-1" Quantity="8" Element="3" /> <!-- "Swamp Wizard" -->
 		<Config Class="789" Range="4" BeginPosX="19" BeginPosY="96" EndPosX="32" EndPosY="112" Direction="-1" Quantity="8" Element="3" /> <!-- "Swamp Wizard" -->
 		<Config Class="789" Range="4" BeginPosX="46" BeginPosY="54" EndPosX="58" EndPosY="67" Direction="-1" Quantity="8" Element="3" /> <!-- "Swamp Wizard" -->
+		
+		<Config Class="789" Range="4" BeginPosX="143" BeginPosY="53" EndPosX="143" EndPosY="53" Direction="-1" Quantity="2" Element="3" /> <!-- "Swamp Wizard" -->
+		<Config Class="787" Range="4" BeginPosX="143" BeginPosY="53" EndPosX="143" EndPosY="53" Direction="-1" Quantity="2" Element="3" /> <!-- "Wooden Beast" -->
+		<Config Class="788" Range="4" BeginPosX="143" BeginPosY="53" EndPosX="143" EndPosY="53" Direction="-1" Quantity="2" Element="1" /> <!-- "Swamp Wizard" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

@@ -112,6 +112,11 @@
 6706      5       0       *         *         *         *         *         *         *         0          *           *              85                101               1000       //Illusion Sorcerer Covenant 5
 6706      6       0       *         *         *         *         *         *         *         0          *           *              102               150               1000       //Illusion Sorcerer Covenant 6
 6708      0       0       *         *         *         *         *         *         *         0          41          *              25                150               3000       //Condor Flame
+6708      0       0       *         *         *         *         *         *         *         0          112          *              *                *               10000       //Condor Flame
+//6549      0       0       *         *         *         *         *         *         *         0          112         *              *                	*               50000       //Medium Magic Stone
+7122      0       0       *         *         *         *         *         *         *         0          122         *              *                	*               10000       //Garuda's Flame
+6550      0       0       *         *         *         *         *         *         *         0          122         *              *                	*               20000       //Higher Magic Stone
+7124      0       0       *         *         *         *         *         *         *         0          122         *              *                	*               10000       //Golden Sentence
 6722      0       0       *         *         *         *         *         *         *         0          *           466            *                 *                 0          //Invitation to Santa Village
 6801      0       0       *         *         *         *         *         *         *         0          *           *              25                150               3000       //Spirit Map Fragment
 7179      1       0       *         *         *         *         *         *         *         0          *           *              12                69                0          //Star of Christmas
@@ -138,7 +143,7 @@
 7186      6       0       *         *         *         *         *         *         *         0          *           *              77                84                1000       //Devil's Key 6
 7186      7       0       *         *         *         *         *         *         *         0          *           *              85                150               1000       //Devil's Key 7
 7189      3       0       *         *         *         *         *         *         *         0          *           *              25                150               3000       //Sign of the Lord
-7190      0       0       *         *         *         *         *         *         *         0          *           *              46                150               1000       //Jewel of Creation
+7190      0       0       *         *         *         *         *         *         *         0          *           *              *                *               10000       //Jewel of Creation
 7197      1       0       *         *         *         *         *         *         *         0          *           *              25                46                1000       //Symbol of Kundun 1
 7197      2       0       *         *         *         *         *         *         *         0          *           *              47                65                1000       //Symbol of Kundun 2
 7197      3       0       *         *         *         *         *         *         *         0          *           *              66                77                1000       //Symbol of Kundun 3
