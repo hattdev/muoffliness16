@@ -20,11 +20,17 @@
 	<BagRuudInfoEx>
 	</BagRuudInfoEx>
 	<BagItemsEx>
-		<ItemEx Section="6" Index="6246" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.1)"/>
-		<ItemEx Section="6" Index="6246" Level="1" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.1)"/>
-		<ItemEx Section="6" Index="6246" Level="2" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.1)"/>
-		<ItemEx Section="6" Index="6246" Level="3" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.1)"/>
-		<ItemEx Section="6" Index="6246" Level="4" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.1)"/>
+		<ItemEx Section="6" Index="7487" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.7)"/>
+		<ItemEx Section="6" Index="7487" Level="1" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.7)"/>
+		<ItemEx Section="6" Index="7487" Level="2" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.7)"/>
+		<ItemEx Section="6" Index="7487" Level="3" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.7)"/>
+		<ItemEx Section="6" Index="7487" Level="4" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.7)"/>
+
+		<ItemEx Section="6" Index="7493" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.8)"/>
+		<ItemEx Section="6" Index="7493" Level="1" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.8)"/>
+		<ItemEx Section="6" Index="7493" Level="2" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.8)"/>
+		<ItemEx Section="6" Index="7493" Level="3" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.8)"/>
+		<ItemEx Section="6" Index="7493" Level="4" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Ice (Lv.8)"/>
 		<ItemEx Section="6" Index="6545" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sphere Upgrade Rune"/>
 	</BagItemsEx>
 </ItemBag>

@@ -57,7 +57,7 @@
 13 56  0 0 0 0 0 0	 	// Reset Fruit Health
 13 57  0 0 0 0 0 0	 	// Reset Fruit Energy
 13 58  0 0 0 0 0 0	 	// Reset Fruit Control
-14 53  0 0 0 0 0 0	 	// Talisman of Luck
+14 53  0 10 0 0 0 0	 	// Talisman of Luck
 
 
 end

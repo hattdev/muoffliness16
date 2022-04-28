@@ -8,7 +8,7 @@
 	<Item Section="0" Type="29" MaxSocket="3" /> <!-- Sonic Blade -->
 	<Item Section="0" Type="30" MaxSocket="3" /> <!-- Asura -->
 	<Item Section="0" Type="36" MaxSocket="3" /> <!-- Cyclone Sword -->
-	<Item Section="0" Type="37" MaxSocket="3" /> <!-- Blast Break -->
+	<Item Section="0" Type="37" MaxSocket="5" /> <!-- Blast Break -->
 	<Item Section="0" Type="52" MaxSocket="3" /> <!-- Pantera Claws -->
 	<Item Section="0" Type="53" MaxSocket="3" /> <!-- Devast Claws -->
 	<Item Section="0" Type="69" MaxSocket="3" /> <!-- Paring Short Sword -->
