@@ -52,7 +52,7 @@ GreaterDefenseRateSL = 100
 GreaterDefenseRateGC = 100
 GreaterDefenseRateKM = 100
 GreaterDefenseRateLM = 100
-GreaterDefenseTimeConstA = 60
+GreaterDefenseTimeConstA = 300
 
 ;==================================================
 ; Greater Damage Skill Settings
@@ -72,7 +72,7 @@ GreaterDamageRateSL = 100
 GreaterDamageRateGC = 100
 GreaterDamageRateKM = 100
 GreaterDamageRateLM = 100
-GreaterDamageTimeConstA = 60
+GreaterDamageTimeConstA = 300
 
 ;==================================================
 ; Summon Monster Skill Settings
