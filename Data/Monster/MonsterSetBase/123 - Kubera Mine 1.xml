@@ -14,28 +14,7 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
-		<Config Class="810" Range="3" BeginPosX="234" BeginPosY="9" EndPosX="241" EndPosY="15" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Digger" -->
-		<Config Class="810" Range="3" BeginPosX="182" BeginPosY="111" EndPosX="189" EndPosY="120" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Digger" -->
-		<Config Class="810" Range="3" BeginPosX="158" BeginPosY="60" EndPosX="165" EndPosY="71" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Digger" -->
-		<Config Class="810" Range="3" BeginPosX="165" BeginPosY="29" EndPosX="174" EndPosY="38" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Digger" -->
-		<Config Class="811" Range="3" BeginPosX="232" BeginPosY="13" EndPosX="239" EndPosY="21" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Carrier" -->
-		<Config Class="811" Range="3" BeginPosX="198" BeginPosY="85" EndPosX="211" EndPosY="92" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Carrier" -->
-		<Config Class="811" Range="3" BeginPosX="141" BeginPosY="4" EndPosX="152" EndPosY="13" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Carrier" -->
-		<Config Class="812" Range="3" BeginPosX="121" BeginPosY="90" EndPosX="132" EndPosY="98" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Porter" -->
-		<Config Class="812" Range="3" BeginPosX="114" BeginPosY="52" EndPosX="134" EndPosY="58" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Porter" -->
-		<Config Class="812" Range="3" BeginPosX="137" BeginPosY="31" EndPosX="145" EndPosY="40" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Porter" -->
-		<Config Class="812" Range="3" BeginPosX="127" BeginPosY="71" EndPosX="137" EndPosY="81" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Porter" -->
-		<Config Class="813" Range="3" BeginPosX="109" BeginPosY="70" EndPosX="116" EndPosY="80" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Porter" -->
-		<Config Class="813" Range="3" BeginPosX="218" BeginPosY="41" EndPosX="229" EndPosY="51" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Driller" -->
-		<Config Class="813" Range="3" BeginPosX="176" BeginPosY="33" EndPosX="184" EndPosY="40" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Driller" -->
-		<Config Class="813" Range="3" BeginPosX="97" BeginPosY="58" EndPosX="111" EndPosY="62" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Driller" -->
-		<Config Class="814" Range="3" BeginPosX="89" BeginPosY="55" EndPosX="101" EndPosY="62" Direction="-1" Quantity="9" Element="1" /> <!-- "Dead Digger" -->
-		<Config Class="814" Range="3" BeginPosX="164" BeginPosY="76" EndPosX="172" EndPosY="84" Direction="-1" Quantity="9" Element="1" /> <!-- "Dead Digger" -->
-		<Config Class="814" Range="3" BeginPosX="148" BeginPosY="94" EndPosX="159" EndPosY="104" Direction="-1" Quantity="9" Element="1" /> <!-- "Dead Digger" -->
-		<Config Class="815" Range="3" BeginPosX="191" BeginPosY="23" EndPosX="203" EndPosY="28" Direction="-1" Quantity="9" Element="1" /> <!-- "Dead Shoveler" -->
-		<Config Class="815" Range="3" BeginPosX="210" BeginPosY="25" EndPosX="221" EndPosY="30" Direction="-1" Quantity="9" Element="1" /> <!-- "Dead Shoveler" -->
-		<Config Class="815" Range="3" BeginPosX="146" BeginPosY="30" EndPosX="163" EndPosY="33" Direction="-1" Quantity="9" Element="1" /> <!-- "Dead Shoveler" -->
-		<Config Class="815" Range="3" BeginPosX="141" BeginPosY="67" EndPosX="155" EndPosY="71" Direction="-1" Quantity="9" Element="1" /> <!-- "Dead Shoveler" -->
+		<Config Class="810" Range="3" BeginPosX="188" BeginPosY="78" EndPosX="188" EndPosY="78" Direction="-1" Quantity="9" Element="1" /> <!-- "Mine Digger" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
