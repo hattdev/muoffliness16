@@ -545,4 +545,4 @@ FruitSubPointSuccessRate_AL3 = -1
 ;==================================================
 ; Ext Inventory Settings
 ;==================================================
-MaxExtendedInventory = 5
+MaxExtendedInventory = 3
