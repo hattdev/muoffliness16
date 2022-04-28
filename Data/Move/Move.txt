@@ -1,5 +1,5 @@
 //Index   Name                    RequireMoney   MinLevel   MaxLevel   MinReset   MaxReset   AccountLevel   Gate   DifficultyOrder   AlphabetOrder   MonsterClassification
-1         "Arena"                 2000           1         800        *          *          0              50	   0		     0		     *	
+1         "Arena"                 2000           1         *        *          *          0              50	   0		     0		     *	
 48        "EventSquare"           20000          1          *          *          *          0              503	   1		     37		     *	
 44        "LorenMarket"           10000          1          *          *          *          0              333	   2		     17		     *	
 2         "Lorencia"              2000           10         *          *          *          0              17	   3		     16		     7	
