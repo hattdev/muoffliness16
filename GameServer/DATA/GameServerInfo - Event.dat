@@ -2,13 +2,13 @@
 ;==================================================
 ; Arca Battle Event Settings
 ;==================================================
-ArcaBattleEvent = 0
+ArcaBattleEvent = 1
 ArcaBattleGuildMinUser = 1
 
 ;==================================================
 ; Blood Castle Event Settings
 ;==================================================
-BloodCastleEvent = 0
+BloodCastleEvent = 1
 BloodCastleMaxUser = 10
 BloodCastleNeedCloakToOpenInterface = 1
 
@@ -90,18 +90,18 @@ IllusionTempleRewardFenrirRate = 5
 ;==================================================
 ; Imperial Guardian Event Settings
 ;==================================================
-ImperialGuardianEvent = 0
+ImperialGuardianEvent = 1
 ImperialGuardianDifficultRate = 100
 
 ;==================================================
 ; Invasion Manager Settings
 ;==================================================
-InvasionManagerSwitch = 0
+InvasionManagerSwitch = 1
 
 ;==================================================
 ; Kanturu Event Settings
 ;==================================================
-KanturuEvent = 0
+KanturuEvent = 1
 
 ;==================================================
 ; Moss Merchant Event Settings
@@ -112,7 +112,7 @@ MossMerchantEventTime = 120
 ;==================================================
 ; Raklion Event Settings
 ;==================================================
-RaklionEvent = 0
+RaklionEvent = 1
 
 ;==================================================
 ; Evolution Monster Event Settings
@@ -124,7 +124,7 @@ EvoMonEventItemDropRate = 30
 ;==================================================
 ; Banner Event Settings
 ;==================================================
-MapleLeafSwitch = 0
+MapleLeafSwitch = 1
 20THAnniversarySwitch = 1
 MonsterEggSwitch = 0
 LunarNewYearSwitch = 0
@@ -142,7 +142,7 @@ BlessingBoxSwitch = 0
 ;==================================================
 ; Play Event Time Event Settings
 ;==================================================
-PlayTimeEventSwitch = 0
+PlayTimeEventSwitch = 1
 PlayTimeEventMaxRound = 10
 PlayTimeEventMinLevel = 220
 PlayTimeEventPlayRoundHour = 20
