@@ -86,7 +86,7 @@ UserAnnouncementSwitch = 1
 ;==================================================
 ; Monster Settings
 ;==================================================
-MonsterLifeRate = 100
+MonsterLifeRate = 120
 MonsterHealthBarSwitch = 1
 MonsterReturnTime = 3
 
@@ -435,15 +435,15 @@ ScoreBoardSwitch = 1
 ;==================================================
 PartyReconnectTime = 300
 PartyGeneralExperience1 = 100
-PartyGeneralExperience2 = 80
-PartyGeneralExperience3 = 60
-PartyGeneralExperience4 = 50
-PartyGeneralExperience5 = 45
+PartyGeneralExperience2 = 100
+PartyGeneralExperience3 = 100
+PartyGeneralExperience4 = 100
+PartyGeneralExperience5 = 100
 PartySpecialExperience1 = 100
-PartySpecialExperience2 = 80
-PartySpecialExperience3 = 75
-PartySpecialExperience4 = 65
-PartySpecialExperience5 = 60
+PartySpecialExperience2 = 100
+PartySpecialExperience3 = 100
+PartySpecialExperience4 = 100
+PartySpecialExperience5 = 100
 PartyMaxLevelDiference = 1150
 
 ;==================================================

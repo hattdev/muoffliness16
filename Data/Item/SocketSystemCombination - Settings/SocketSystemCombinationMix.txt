@@ -30,7 +30,7 @@ end
 
 4
 //MixMoney	MixRate
-10000000	90
+10000000	100
 
 end
 
