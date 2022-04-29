@@ -7,6 +7,12 @@
 	<SPOT>
 		<Config Class="501" Range="10" BeginPosX="45" BeginPosY="75" EndPosX="45" EndPosY="75" Direction="-1" Quantity="2" Element="0" /> <!-- "Spider" -->
 		<Config Class="275" Range="10" BeginPosX="67" BeginPosY="71" EndPosX="67" EndPosY="71" Direction="-1" Quantity="2" Element="0" /> <!-- "Spider" -->
+
+		<Config Class="673" Range="10" BeginPosX="47" BeginPosY="57" EndPosX="47" EndPosY="57" Direction="-1" Quantity="1" Element="0" /> <!-- "Lord Silvester" -->
+		<Config Class="295" Range="10" BeginPosX="47" BeginPosY="57" EndPosX="47" EndPosY="57" Direction="-1" Quantity="1" Element="0" /> <!-- "Lord Silvester" -->
+
+		<Config Class="673" Range="10" BeginPosX="47" BeginPosY="39" EndPosX="47" EndPosY="39" Direction="-1" Quantity="1" Element="0" /> <!-- "Lord Silvester" -->
+		<Config Class="295" Range="10" BeginPosX="47" BeginPosY="39" EndPosX="47" EndPosY="39" Direction="-1" Quantity="1" Element="0" /> <!-- "Lord Silvester" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
