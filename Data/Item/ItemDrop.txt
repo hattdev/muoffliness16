@@ -208,5 +208,5 @@
 7549     0       0       *         *         *         1         *         *         6         0          *           *              275               *               2000       //Seed Capsule (Wind)
 7550     0       0       *         *         *         1         *         *         6         0          *           *              275               *               2000       //Seed Capsule (Lightning)
 7551     0       0       *         *         *         1         *         *         6         0          *           *              275               *               2000       //Seed Capsule (Earth)
-7210     0       0       *         *         *         1         *         *         6         0          *           *              275               *               7000       //Jewel of Harmony
+7210     0       0       *         *         *         1         *         *         6         0          *           *              275               *               10000       //Jewel of Harmony
 end
