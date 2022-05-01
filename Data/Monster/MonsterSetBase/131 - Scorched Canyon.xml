@@ -10,6 +10,13 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
+		<Config Class="845" Range="3" BeginPosX="210" BeginPosY="12" EndPosX="210" EndPosY="12" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="846" Range="3" BeginPosX="210" BeginPosY="12" EndPosX="210" EndPosY="12" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="847" Range="3" BeginPosX="210" BeginPosY="12" EndPosX="210" EndPosY="12" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+
+		<Config Class="845" Range="3" BeginPosX="240" BeginPosY="40" EndPosX="240" EndPosY="40" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="846" Range="3" BeginPosX="240" BeginPosY="40" EndPosX="240" EndPosY="40" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="847" Range="3" BeginPosX="240" BeginPosY="40" EndPosX="240" EndPosY="40" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
