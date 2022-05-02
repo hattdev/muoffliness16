@@ -135,14 +135,15 @@ end
 7190      8	  	  *         *         *         *         *         *         *         0			 *           6666         //Jewel of Creation
 7199      8	  	  *         *         *         *         *         *         *         0			 *           6666         //Guardian Jewel
 7210      8	  	  *         *         *         *         *         *         *         0			 *           6666         //Jewel of Harmony
-6159      9	  	  *         *         *         *         *         *         *         0			 *           6666         //Jewel of Chaos
-7645      9	  	  *         *         *         *         *         *         *         0			 *           2500         //Seal of the Phantasmal Steed
+6159      9	  	  *         *         *         *         *         *         *         0			 *           0         //Jewel of Chaos
+7645      9	  	  *         *         *         *         *         *         *         0			 *           3500         //Seal of the Phantasmal Steed
 7634      9	  	  *         *         *         *         *         *         *         0			 *           2500         //Fragment of Resurrection
 7635      9	  	  *         *         *         *         *         *         *         0			 *           2500         //Guardian Upgrade Stone
-7540      9	  	  *         *         *         *         *         *         *         0			 *           6666         //[Bound] Bless of Light (Middle Grade)
-7182      9	  	  *         *         *         *         *         *         *         0			 *           6666         //Jewel of Soul
-7184      9	  	  *         *         *         *         *         *         *         0			 *           6666         //Jewel of Life
-7190      9	  	  *         *         *         *         *         *         *         0			 *           6666         //Jewel of Creation
+7636      9	  	  *         *         *         *         *         *         *         0			 *           1500         //Elite Guardian Upgrade Stone
+7540      9	  	  *         *         *         *         *         *         *         0			 *           4666         //[Bound] Bless of Light (Middle Grade)
+7182      9	  	  *         *         *         *         *         *         *         0			 *           0         //Jewel of Soul
+7184      9	  	  *         *         *         *         *         *         *         0			 *           0         //Jewel of Life
+7190      9	  	  *         *         *         *         *         *         *         0			 *           0         //Jewel of Creation
 51        10	  0         1         11         0         27         0         0         0			 0           1250         //Blessed Divine Sword of the Archangel
 61        10	  0         1         11         0         27         0         0         0			 0           1250         //Blessed Divine Claws of the Archangel
 77        10	  0         1         11         0         27         0         0         0			 0           1250         //Blessed Divine Short Sword of the Archangel
