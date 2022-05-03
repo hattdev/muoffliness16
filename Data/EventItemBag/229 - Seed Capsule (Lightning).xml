@@ -20,15 +20,15 @@
     <BagRuudInfoEx>
     </BagRuudInfoEx>
     <BagItemsEx>
-        <ItemEx Section="6" Index="7488" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.7)"/>
-        <ItemEx Section="6" Index="7488" Level="1" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.7)"/>
-        <ItemEx Section="6" Index="7488" Level="2" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.7)"/>
-        <ItemEx Section="6" Index="7488" Level="3" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.7)"/>
+        <ItemEx Section="6" Index="6465" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.7)"/>
+        <ItemEx Section="6" Index="6465" Level="1" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.7)"/>
+        <ItemEx Section="6" Index="6465" Level="2" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.7)"/>
+        <ItemEx Section="6" Index="6465" Level="3" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.7)"/>
 
-        <ItemEx Section="6" Index="7495" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.8)"/>
-        <ItemEx Section="6" Index="7495" Level="1" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.8)"/>
-        <ItemEx Section="6" Index="7495" Level="2" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.8)"/>
-        <ItemEx Section="6" Index="7495" Level="3" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.8)"/>
+        <ItemEx Section="6" Index="6471" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.8)"/>
+        <ItemEx Section="6" Index="6471" Level="1" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.8)"/>
+        <ItemEx Section="6" Index="6471" Level="2" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.8)"/>
+        <ItemEx Section="6" Index="6471" Level="3" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Seed Sphere Lightning (Lv.8)"/>
 
         <ItemEx Section="6" Index="6545" Level="0" Grade="0" Durability="0" Option0="0" Option1="0" Option2="0" Option3="0" Option4="0" Option5="0" Option6="0" Attribute="0" ErrtelOptionLevel="0" Duration="0" Name="Sphere Upgrade Rune"/>
 
