@@ -158,7 +158,8 @@ end
 29        8000    2000    0       0       0       0       0       //Exc Option (WingOfConquerorMix)
 30        8000    2000    0       0       0       0       0       //Exc Option (BoundWing2Mix)
 31        8000    2000    0       0       0       0       0       //Exc Option (BoundWing3Mix)
-32        3500    3200    3000       2500       2000       1200       800       //Hatt custom option ex
+32        0    0    3000       2500       2000       1500       1000       //Hatt custom option ex
+
 end
 
 5
