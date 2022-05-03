@@ -346,7 +346,7 @@ ObsidianTimeConstA = 120
 ;==================================================
 WrathConstA = 50
 WrathConstB = 30
-WrathTimeConstA = 15
+WrathTimeConstA = 600
 
 ;==================================================
 ; Archangel Will Skill Settings
