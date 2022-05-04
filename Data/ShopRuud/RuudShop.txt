@@ -37,21 +37,21 @@ end
 14      450	   0       100000   // Soul Moru
 14      449	   0       100000    // Cold Marriage
 14      495	   0       100000    // Blue Eye Anvil
-14      458	   0       25000    // Earring Up Item Season 2
-14      497	   0       25000    // Earring Up Item Season 3
-20      77	   0       25000    // Earring Up Item Season 4
+14      458	   0       1500000    // Earring Up Item Season 2
+14      497	   0       2000000    // Earring Up Item Season 3
+20      77	   0       4000000    // Earring Up Item Season 4
 14      494	   0       50000    // Ancestral Spirit
 14      501        0       100000    // Manticore Soul
 14      502        0       100000    // Silver Heart Anvil
-14      498    	   1       2000000    // Ice Dragon Seal
+14      498    	   1       5000000    // Ice Dragon Seal
 14      460	   1       400      // [Level 1] Monster Soul Converter
 14      461	   1       500      // [Level 2] Monster Soul Converter
 14      462	   1       600      // [Level 3] Monster Soul Converter
 14      463	   1       700      // [Level 4] Monster Soul Converter
 14      464	   1       800      // [Level 5] Monster Soul Converter	
-14      510	   0       5000000    // Pierce Lion's Seal
-12      509	   0       3000000    // Pentagram Emblem
-12      510	   0       200000    // Ertel Emblem
+14      510	   0       10000000    // Pierce Lion's Seal
+12      509	   0       6000000    // Pentagram Emblem
+12      510	   0       1000000    // Ertel Emblem
 end
 //===================================================================================================================================
 //Dark Wizard			 
