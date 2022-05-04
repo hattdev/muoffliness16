@@ -59,6 +59,17 @@ Elements
     	<Config Class="878" Range="5" BeginPosX="240" BeginPosY="100" EndPosX="245" EndPosY="108" Direction="-1" Quantity="3" Element="5" /> <!-- "Ashen Witch Queen" -->
     	<Config Class="879" Range="5" BeginPosX="224" BeginPosY="125" EndPosX="231" EndPosY="130" Direction="-1" Quantity="2" Element="5" /> <!-- "(Elite) Ashen Golem" -->
     	<Config Class="880" Range="5" BeginPosX="224" BeginPosY="125" EndPosX="231" EndPosY="130" Direction="-1" Quantity="1" Element="5" /> <!-- "(Elite) Ashen Bloody Witch Queen" -->
+
+		<Config Class="875" Range="5" BeginPosX="94" BeginPosY="23" EndPosX="94" EndPosY="23" Direction="-1" Quantity="1" Element="5" /> <!-- "Ashen Death tree" -->
+		<Config Class="876" Range="5" BeginPosX="94" BeginPosY="23" EndPosX="94" EndPosY="23" Direction="-1" Quantity="1" Element="5" /> <!-- "Ashen Forest Orc" -->
+		<Config Class="876" Range="5" BeginPosX="94" BeginPosY="23" EndPosX="94" EndPosY="23" Direction="-1" Quantity="1" Element="5" /> <!-- "Ashen Forest Orc" -->
+		<Config Class="877" Range="5" BeginPosX="94" BeginPosY="23" EndPosX="94" EndPosY="23" Direction="-1" Quantity="1" Element="5" /> <!-- "Ashen Deathrider" -->
+		<Config Class="877" Range="5" BeginPosX="94" BeginPosY="23" EndPosX="94" EndPosY="23" Direction="-1" Quantity="1" Element="5" /> <!-- "Ashen Deathrider" -->
+		<Config Class="878" Range="5" BeginPosX="94" BeginPosY="23" EndPosX="94" EndPosY="23" Direction="-1" Quantity="1" Element="5" /> <!-- "Ashen Witch Queen" -->
+		<Config Class="879" Range="5" BeginPosX="94" BeginPosY="23" EndPosX="94" EndPosY="23" Direction="-1" Quantity="1" Element="5" /> <!-- "(Elite) Ashen Golem" -->
+		<Config Class="880" Range="5" BeginPosX="94" BeginPosY="23" EndPosX="94" EndPosY="23" Direction="-1" Quantity="1" Element="5" /> <!-- "(Elite) Ashen Bloody Witch Queen" -->
+
+
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
   	<MONSTER>
