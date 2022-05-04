@@ -11,6 +11,20 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
+<!--		VK ruud Fo-->
+		<Config Class="565" Range="30" BeginPosX="170" BeginPosY="220" EndPosX="170" EndPosY="220" Direction="-1" Quantity="2" Element="0" /> <!-- "Dark Iron Knight" -->
+<!--		socket -->
+		<Config Class="605" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="605" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="607" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="454" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="455" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="456" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="457" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="458" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="562" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="563" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
+		<Config Class="564" Range="30" BeginPosX="166" BeginPosY="206" EndPosX="166" EndPosY="206" Direction="-1" Quantity="1" Element="0" /> <!-- "Dark Iron Knight" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
