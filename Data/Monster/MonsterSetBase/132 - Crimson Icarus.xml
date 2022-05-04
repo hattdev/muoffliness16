@@ -15,6 +15,16 @@
 		<Config Class="861" Range="3" BeginPosX="135" BeginPosY="165" EndPosX="135" EndPosY="165" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
 		<Config Class="862" Range="3" BeginPosX="135" BeginPosY="165" EndPosX="135" EndPosY="165" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
 		<Config Class="863" Range="3" BeginPosX="135" BeginPosY="165" EndPosX="135" EndPosY="165" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+
+		<Config Class="860" Range="3" BeginPosX="82" BeginPosY="110" EndPosX="82" EndPosY="110" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="861" Range="3" BeginPosX="82" BeginPosY="110" EndPosX="82" EndPosY="110" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="862" Range="3" BeginPosX="82" BeginPosY="110" EndPosX="82" EndPosY="110" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="863" Range="3" BeginPosX="82" BeginPosY="110" EndPosX="82" EndPosY="110" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+
+		<Config Class="860" Range="3" BeginPosX="133" BeginPosY="72" EndPosX="133" EndPosY="72" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="861" Range="3" BeginPosX="133" BeginPosY="72" EndPosX="133" EndPosY="72" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="862" Range="3" BeginPosX="133" BeginPosY="72" EndPosX="133" EndPosY="72" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
+		<Config Class="863" Range="3" BeginPosX="133" BeginPosY="72" EndPosX="133" EndPosY="72" Direction="-1" Quantity="3" Element="-1" /> <!-- "Mine Digger" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
