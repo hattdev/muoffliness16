@@ -940,7 +940,7 @@ function SkillObsidian(lpObj,SkillIndex) -- SKILL_OBSIDIAN
 
 	AddSkillDam = AddSkillDam + (AddSkillDam * (GetMasterSkillValue(lpObj, MASTER_SKILL_ADD_OBSIDIAN_IMPROVED) / 100))
 	
-	local count = 120 --[[old ObsidianTimeConstA]]
+	local count = 300 --[[old ObsidianTimeConstA]]
 	
 	if (IsParty(lpObj) == 0) then
 
@@ -981,7 +981,7 @@ function SkillWarth(lpObj,SkillIndex) -- SKILL_WRATH
 
 	local EffectDownValue = (GetObjectDefense(lpObj) * 30--[[old WrathConstB]]) / 100
 
-	local Duration = 15 --[[old WrathTimeConstA]] + GetMasterSkillValue(lpObj, MASTER_SKILL_ADD_WRATH_IMPROVED)
+	local Duration = 300 --[[old WrathTimeConstA]] + GetMasterSkillValue(lpObj, MASTER_SKILL_ADD_WRATH_IMPROVED)
 
 	AddEffect(lpObj, 0, GetSkillEffect(SkillIndex), Duration, EffectUPValue, EffectDownValue, 0, 0, 0, 0, 0, -1,-1)
 
@@ -1307,7 +1307,7 @@ end
 
 function SkillSwordFury(lpObj,SkillIndex) -- SKILL_SWORD_FURY
 
-	local count = 60 --[[old SwordFuryTimeConstA]]
+	local count = 300 --[[old SwordFuryTimeConstA]]
 
 	AddEffect(lpObj, 0, GetSkillEffect(SkillIndex), count, 0, 0, 0, 0, 0, 0, 0, -1,-1);
 	

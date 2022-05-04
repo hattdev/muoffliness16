@@ -971,7 +971,7 @@ function SkillWarth(aIndex,SkillIndex) -- SKILL_WRATH
 
 	local EffectDownValue = (GetObjectDefense(aIndex) * 30--[[old WrathConstB]]) / 100
 
-	local Duration = 300 --[[old WrathTimeConstA]] + GetMasterSkillValue(aIndex, MASTER_SKILL_ADD_WRATH_IMPROVED)
+	local Duration = 15 --[[old WrathTimeConstA]] + GetMasterSkillValue(aIndex, MASTER_SKILL_ADD_WRATH_IMPROVED)
 
 	AddEffect(aIndex, 0, GetSkillEffect(SkillIndex), Duration, EffectUPValue, EffectDownValue, 0, 0, 0, 0, 0, -1,-1)
 
