@@ -308,6 +308,7 @@
 57       1       1      170    220    "RUUD FO"
 57       1       1      166    206    "Socket FO"
 134       1       1      94    23    "Lapidary Stone"
+134       1       1      75    18    "Lapidary Stone"
 132        1       1      82    110     "SPOT"
 132        1       1      133    72     "SPOT"
 
