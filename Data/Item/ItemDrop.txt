@@ -202,7 +202,7 @@
 10282     0       0       *         *         *         1         *         *         6         0          *           *              170               300               1000       //Battle Lapis Lazuli Necklace
 10282     0       0       *         *         *         1         *         *         6         0          *           *              410               530               1000       //Battle Lapis Lazuli Necklace
 10282     0       0       *         *         *         1         *         *         6         0          *           *              490               560               1000       //Battle Lapis Lazuli Necklace
-7581     0       0       *         *         *         1         *         *         6         0          *           *              275               *               2000       //Coin of Miracle
+7581     0       0       *         *         *         1         *         *         6         0          *           *              275               *               10000       //Coin of Miracle
 7546     0       0       *         *         *         1         *         *         6         0          *           *              275               *               2000       //Seed Capsule (Fire)
 7547     0       0       *         *         *         1         *         *         6         0          *           *              275               *               2000       //Seed Capsule (Water)
 7548     0       0       *         *         *         1         *         *         6         0          *           *              275               *               2000       //Seed Capsule (Ice)
