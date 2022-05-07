@@ -36,12 +36,12 @@
 	<Config Class="872" Range="30" BeginPosX="1" BeginPosY="1" EndPosX="247" EndPosY="247" Direction="-1" Quantity="20" Element="4" /> <!-- "(Elite) Temple Gargoyle" -->
 	<Config Class="872" Range="30" BeginPosX="1" BeginPosY="1" EndPosX="247" EndPosY="247" Direction="-1" Quantity="20" Element="5" /> <!-- "(Elite) Temple Gargoyle" -->
 
-	<Config Class="867" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="1" /> <!-- "Doppelganger Gun Crusher" -->
-	<Config Class="868" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="1" /> <!-- "Temple Gramlin" -->
-	<Config Class="869" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="1" /> <!-- "Temple Gargoyle" -->
-	<Config Class="870" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="5" /> <!-- "(Elite) Temple Ogre" -->
-	<Config Class="871" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="5" /> <!-- "(Elite) Temple Gramlin" -->
-	<Config Class="872" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="5" /> <!-- "(Elite) Temple Gargoyle" -->
+	<Config Class="867" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="-1" /> <!-- "Doppelganger Gun Crusher" -->
+	<Config Class="868" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="-1" /> <!-- "Temple Gramlin" -->
+	<Config Class="869" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="-1" /> <!-- "Temple Gargoyle" -->
+	<Config Class="870" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="-1" /> <!-- "(Elite) Temple Ogre" -->
+	<Config Class="871" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="-1" /> <!-- "(Elite) Temple Gramlin" -->
+	<Config Class="872" Range="5" BeginPosX="125" BeginPosY="35" EndPosX="125" EndPosY="35" Direction="-1" Quantity="2" Element="-1" /> <!-- "(Elite) Temple Gargoyle" -->
 
 
 	</SPOT>
