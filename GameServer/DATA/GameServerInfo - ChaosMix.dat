@@ -162,10 +162,10 @@ BrokenHornMixRate_AL3 = 100
 ;==================================================
 ; Horn of Fenrir Mix Settings
 ;==================================================
-HornOfFenrirMixRate_AL0 = 100
-HornOfFenrirMixRate_AL1 = 100
-HornOfFenrirMixRate_AL2 = 100
-HornOfFenrirMixRate_AL3 = 100
+HornOfFenrirMixRate_AL0 = -1
+HornOfFenrirMixRate_AL1 = -1
+HornOfFenrirMixRate_AL2 = -1
+HornOfFenrirMixRate_AL3 = -1
 
 ;==================================================
 ; Horn of Fenrir Upgrade Mix Settings
