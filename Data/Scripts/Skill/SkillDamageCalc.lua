@@ -426,7 +426,6 @@ function SkillGreaterLife(aIndex,bIndex,SkillIndex)	-- SKILL_GREATER_LIFE
 	if(value1>100--[[old GreaterLifeMaxRate]]) then
 		value1 = 100--[[old GreaterLifeMaxRate]]
 	end
-    value1 = 30
 	local value2 = GetMasterSkillValue(aIndex,MASTER_SKILL_ADD_GREATER_LIFE_ENHANCED)
 
 	local value3 = GetMasterSkillValue(aIndex,MASTER_SKILL_ADD_GREATER_LIFE_MASTERED)
@@ -466,7 +465,7 @@ function SkillGreaterLife(aIndex,bIndex,SkillIndex)	-- SKILL_GREATER_LIFE
 		end	
 		
 		local pValue1 = (value1*ValueRate)/100
-		
+		pValue1 =30
 		AddEffect(aIndex,0,GetSkillEffect(SkillIndex),count,pValue1,value2,value3,0, 0, 0, 0, bIndex,-1)
 
 		GCSkillAttackSend(aIndex,SkillIndex,aIndex,1)
@@ -515,7 +514,7 @@ function SkillGreaterLife(aIndex,bIndex,SkillIndex)	-- SKILL_GREATER_LIFE
 			end	
 			
 			value1 = (value1*ValueRate)/100
-		
+		value1  = 30
 			AddEffect(cIndex,0,GetSkillEffect(SkillIndex),count,value1,value2,value3,0, 0, 0, 0, aIndex,-1)
 
 			GCSkillAttackSend(aIndex,SkillIndex,cIndex,1)
