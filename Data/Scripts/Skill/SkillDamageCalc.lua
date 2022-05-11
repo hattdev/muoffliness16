@@ -424,9 +424,9 @@ function SkillGreaterLife(aIndex,bIndex,SkillIndex)	-- SKILL_GREATER_LIFE
 	value1 =  value1 + GetMasterSkillValue(aIndex,MASTER_SKILL_ADD_GREATER_LIFE_IMPROVED)
 	
 	if(value1>100--[[old GreaterLifeMaxRate]]) then
-		value1 = 30--[[old GreaterLifeMaxRate]]
+		value1 = 100--[[old GreaterLifeMaxRate]]
 	end
-
+    value1 = 30
 	local value2 = GetMasterSkillValue(aIndex,MASTER_SKILL_ADD_GREATER_LIFE_ENHANCED)
 
 	local value3 = GetMasterSkillValue(aIndex,MASTER_SKILL_ADD_GREATER_LIFE_MASTERED)
