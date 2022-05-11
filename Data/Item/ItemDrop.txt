@@ -213,4 +213,39 @@
 7635     0       0       *         *         *         1         *         *         6         0          132           *              275               *               15000       //Guardian Upgrade Stone
 7636     0       0       *         *         *         1         *         *         6         0          133           *              275               *               10000       //Elite Guardian Upgrade Stone
 7166     0       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+// seed fire
+6479     0       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6479     1       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6479     2       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6479     3       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6479     4       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6479     5       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+// water fire
+6480     0       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6480     1       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6480     2       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6480     3       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6480     4       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+// water Ice
+6481     0       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6481     1       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6481     2       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6481     3       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6481     4       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+// seed Wind
+6482     0       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6482     1       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6482     2       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6482     3       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6482     4       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+// seed Lightning
+6483     0       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6483     1       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6483     2       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6483     3       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+// seed Earth
+6484     0       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6484     1       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6484     2       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
+6484     3       0       *         *         *         1         *         *         6         0          134           *              275               *               10000       //Lapidary Stone
 end
