@@ -60,6 +60,7 @@
 14 53  0 10 0 0 0 0	 	// Talisman of Luck
 14 224  0 50 0 0 0 0	 	// EXP 200
 14 345  0 50 0 0 0 0	 	// Mysterious Stone
+12 288  0 30 0 0 0 0	 	// Elemental rune
 
 
 end
